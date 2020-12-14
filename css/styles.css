@@ -20,6 +20,12 @@ h2 {
   font-weight: 700;
   color: var(--h-color);
 }
+li {
+  list-style: none;
+}
+address {
+  font-style: normal;
+}
 
 /* header */
 .logo-header {
